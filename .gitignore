@@ -1,6 +1,5 @@
 .idea
 data/*
-models/*
 *.pdf
 *.doc
 _pycache_
