@@ -1,0 +1,7 @@
+.idea
+data/*
+models/*
+*.pdf
+*.doc
+_pycache_
+face_img
